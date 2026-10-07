@@ -44,6 +44,18 @@ Site institucional e catálogo de imóveis desenvolvido com **HTML, CSS e JavaSc
   <img src="https://img.shields.io/badge/💻%20Código-GitHub-black?style=for-the-badge&logo=github">
 </a>
 
+### 📅 HIPOCAMPO
+
+**Sistema Web de Gerenciamento de Agenda Pessoal**
+
+Projeto acadêmico desenvolvido em equipe durante o curso de Análise e Desenvolvimento de Sistemas, utilizando práticas do Scrum, GitHub e Figma.
+
+💻 Contribuição no desenvolvimento do protótipo, incluindo definição de fluxos de navegação, organização do fluxo de dados e estrutura das funcionalidades.
+
+🧪 Atuação também na área de testes, identificação de problemas de usabilidade e validação dos fluxos do sistema.
+
+🔗 [Ver protótipo no Figma](https://www.figma.com/proto/ws8pac2Ses6IQx2oOPzcio/hipofoco?node-id=1-19&p=f&t=5sILlQy23SYMy3pX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A19)
+
 ---
 
 ## 📚 Atualmente estudando
